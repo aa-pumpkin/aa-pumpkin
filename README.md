@@ -78,14 +78,6 @@ University team project for an internal registration system.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aa-pumpkin&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aa-pumpkin&layout=compact&theme=tokyonight)
-
----
-
 ## Contact
 
 - GitHub: [@aa-pumpkin](https://github.com/aa-pumpkin)
