@@ -46,7 +46,7 @@ University team project for an internal registration system.
 
 ## Additional Technologies
 
-[![Additional Technologies](https://skillicons.dev/icons?i=python,rust,react,html,css,docker,linux,git,mysql,php,laravel)](https://skillicons.dev)
+[![Additional Technologies](https://skillicons.dev/icons?i=python,rust,react,html,css,nodejs,docker,linux,git,mysql,php,laravel)](https://skillicons.dev)
 
 ## Languages
 
