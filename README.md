@@ -9,15 +9,20 @@ I build web applications with Vue, TypeScript and modern frontend tooling.
 
 ## Projects
 
+### Telegram Free Games Bot
+
+Telegram bot that tracks free game giveaways from Steam, Epic Games Store and GOG and sends notifications to subscribed users.
+
+**Tech:** TypeScript, Node.js, PostgreSQL, Docker, Telegram Bot API  
+**Repository:** [aa-pumpkin/telegram-free-games-bot](https://github.com/aa-pumpkin/telegram-free-games-bot)
+
 ### UnivIS Planner
 
 Timetable planner for Computer Science students at CAU Kiel.
 
-Loads public UnivIS course data, maps lectures and exercises to modules, and generates timetable variants with minimal conflicts.  
-Runs locally in the browser without an account or CAU credentials.
+Loads public UnivIS course data, maps lectures and exercises to modules, and generates timetable variants with minimal conflicts.
 
-**Tech:** Vue, TypeScript, Vite, Pinia, Vitest  
-**Repository:** [aa-pumpkin/univis-planner](https://github.com/aa-pumpkin/univis-planner)
+**Tech:** Vue, TypeScript, Vite, Pinia, Vitest
 
 ### IoT-NDN Privacy Prototype
 
