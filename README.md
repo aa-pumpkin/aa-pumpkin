@@ -9,6 +9,21 @@ I build web applications with Vue, TypeScript and modern frontend tooling.
 
 ## Projects
 
+### WG Hub
+
+App for shared flats: rotating chores, shopping list, shared expenses, calendar and notes with live updates. Web app (PWA) and native Android app in German, English and Russian.
+
+**Tech:** Vue 3, TypeScript, Pinia, Tailwind CSS, Node.js, Fastify, Prisma, PostgreSQL, Docker, Kotlin  
+**Repository:** [aa-pumpkin/wg-hub](https://github.com/aa-pumpkin/wg-hub)
+
+### Artificer
+
+Artifact reference and combination tracker for Heroes of Might and Magic III: Horn of the Abyss. Works offline as a PWA and as an Android app.
+
+**Tech:** Vue 3, Quasar, JavaScript, PWA, Capacitor, GitHub Actions  
+**Live:** [aa-pumpkin.github.io/art-helper](https://aa-pumpkin.github.io/art-helper/)  
+**Repository:** [aa-pumpkin/art-helper](https://github.com/aa-pumpkin/art-helper)
+
 ### Telegram Free Games Bot
 
 Telegram bot that tracks free game giveaways from Steam, Epic Games Store and GOG and sends notifications to subscribed users.
