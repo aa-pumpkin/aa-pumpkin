@@ -24,21 +24,6 @@ Artifact reference and combination tracker for Heroes of Might and Magic III: Ho
 **Live:** [aa-pumpkin.github.io/art-helper](https://aa-pumpkin.github.io/art-helper/)  
 **Repository:** [aa-pumpkin/art-helper](https://github.com/aa-pumpkin/art-helper)
 
-### Telegram Free Games Bot
-
-Telegram bot that tracks free game giveaways from Steam, Epic Games Store and GOG and sends notifications to subscribed users.
-
-**Tech:** TypeScript, Node.js, PostgreSQL, Docker, Telegram Bot API  
-**Repository:** [aa-pumpkin/telegram-free-games-bot](https://github.com/aa-pumpkin/telegram-free-games-bot)
-
-### UnivIS Planner
-
-Timetable planner for Computer Science students at CAU Kiel.
-
-Loads public UnivIS course data, maps lectures and exercises to modules, and generates timetable variants with minimal conflicts.
-
-**Tech:** Vue, TypeScript, Vite, Pinia, Vitest
-
 ### IoT-NDN Privacy Prototype
 
 Bachelor thesis prototype for selective privacy protection in IoT-NDN communication on ESP-based devices.
